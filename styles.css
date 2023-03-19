@@ -44,10 +44,12 @@ body {
 
 .container h1 {
   color: var(--Dark-blue);
+  text-align: center;
 }
 
 .container p {
   color: var(--Grayish-blue);
+  text-align: center;
 }
 
 .attribution {
