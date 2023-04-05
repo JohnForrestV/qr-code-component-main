@@ -31,7 +31,7 @@ body {
 .container {
   background-color: var(--white);
   padding: 1.25rem;
-  border-radius: 0/620rem;
+  border-radius: 0/625rem;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.05);
   margin-bottom: 2rem;
 }
