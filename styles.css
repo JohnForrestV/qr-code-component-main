@@ -61,7 +61,7 @@ body {
   color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 500px) {
+@media (min-width: 510px) {
   .container {
     width: 400px;
   }
