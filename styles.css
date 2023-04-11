@@ -50,6 +50,7 @@ body {
 .container p {
   color: var(--Grayish-blue);
   text-align: center;
+  justify-content: center;
 }
 
 .attribution {
