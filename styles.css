@@ -14,12 +14,12 @@
 }
 
 img {
-  max-width: 86%;
+  max-width: 95%;
 }
 
 body {
   font-family: "Outfit", sans-serif;
-  font-size: 16px;
+  font-size: 15px;
   background-color: var(--Light-gray);
   display: flex;
   flex-direction: column;
@@ -34,6 +34,7 @@ body {
   border-radius: 0/625rem;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.05);
   margin-bottom: 2rem;
+  justify-content: center;
 }
 
 .container img {
